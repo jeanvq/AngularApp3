@@ -12,10 +12,9 @@ A modern Angular 21 application to manage your personal library. Browse, add, ed
 - 🖼️ **Screenshots**:
 
 <p align="center">
-  <img src="src/screenshots/Screenshot%202026-03-23%20at%2010.08.57%20PM.png" width="350"/>
-  <img src="src/screenshots/Screenshot%202026-03-23%20at%2010.09.07%20PM.png" width="350"/>
-  <img src="src/screenshots/Screenshot%202026-03-23%20at%2010.09.18%20PM.png" width="350"/>
-  <img src="src/screenshots/Screenshot%202026-03-23%20at%2010.09.31%20PM.png" width="350"/>
+	<img src="src/screenshots/image1.png" width="350"/>
+	<img src="src/screenshots/image2.png" width="350"/>
+	<img src="src/screenshots/image4.png" width="350"/>
 </p>
 
 ## Tech Stack
