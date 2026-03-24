@@ -33,7 +33,7 @@ A modern Angular 21 application to manage your personal library. Browse, add, ed
 	npm start
 	```
 3. **Open in your browser:**
-	Visit [http://localhost:4200](http://localhost:4200) (or the port shown in your terminal).
+	Visit http://localhost:51072/books (or the port shown in your terminal).
 
 ## Project Structure
 - `src/app/` — Main Angular app code
