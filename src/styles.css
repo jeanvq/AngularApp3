@@ -1,1 +1,72 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body, .bg-darkmode {
+	background: #181a20 !important;
+	color: #f3f3f3 !important;
+}
+
+.section {
+	background: #232634;
+	border-radius: 1.2rem;
+	box-shadow: 0 4px 24px #0004;
+	padding: 2rem 1.5rem;
+	margin-bottom: 2rem;
+}
+
+.book-card {
+	background: #232634;
+	border-radius: 1rem;
+	box-shadow: 0 2px 12px #0003;
+	padding: 1.2rem 1.5rem;
+	margin-bottom: 1.2rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	transition: box-shadow 0.2s;
+}
+.book-card:hover {
+	box-shadow: 0 4px 24px #0006;
+}
+.book-title {
+	font-size: 1.2rem;
+	font-weight: 600;
+	color: #7dd3fc;
+	text-decoration: none;
+}
+.book-title:hover {
+	color: #f472b6;
+}
+.book-author {
+	color: #a3a3a3;
+	font-size: 1rem;
+	margin-bottom: 0.5rem;
+}
+.book-actions {
+	display: flex;
+	gap: 0.7rem;
+}
+.edit-btn, .delete-btn, .add-btn {
+	background: #38bdf8;
+	color: #181a20;
+	padding: 0.3rem 1rem;
+	border-radius: 0.4rem;
+	font-size: 0.98rem;
+	font-weight: 500;
+	text-decoration: none;
+	transition: background 0.2s, color 0.2s;
+	border: none;
+	margin-left: 0.2rem;
+}
+.edit-btn:hover, .add-btn:hover {
+	background: #22d3ee;
+	color: #232634;
+}
+.delete-btn {
+	background: #f43f5e;
+	color: #fff;
+}
+.delete-btn:hover {
+	background: #be185d;
+	color: #fff;
+}
 /* You can add global styles to this file, and also import other style files */
